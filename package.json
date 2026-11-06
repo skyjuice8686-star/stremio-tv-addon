@@ -1,0 +1,13 @@
+
+{
+  "name": "stremio-tv-addon",
+  "version": "1.0.0",
+  "description": "Stremio TV Catalog Add-on",
+  "main": "addon.js",
+  "scripts": {
+    "start": "node addon.js"
+  },
+  "dependencies": {
+    "stremio-addon-sdk": "^1.6.10"
+  }
+}
